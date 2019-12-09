@@ -1,0 +1,80 @@
+{
+    "product_items": [{
+            "variant_id": "5848011459",
+            "quantity": 10,
+            "cancelled_quantity": 0,
+            "returned_quantity": 0,
+            "returnable_quantity": 10
+        },
+        {
+            "variant_id": "5848507971",
+            "quantity": 10,
+            "cancelled_quantity": 0,
+            "returned_quantity": 0,
+            "returnable_quantity": 10
+        },
+        {
+            "variant_id": "5848041603",
+            "quantity": 10,
+            "cancelled_quantity": 0,
+            "returned_quantity": 0,
+            "returnable_quantity": 10
+        },
+        {
+            "variant_id": "5847805059",
+            "quantity": 10,
+            "cancelled_quantity": 0,
+            "returned_quantity": 0,
+            "returnable_quantity": 10
+        },
+        {
+            "variant_id": "5848106435",
+            "quantity": 10,
+            "cancelled_quantity": 0,
+            "returned_quantity": 0,
+            "returnable_quantity": 10
+        },
+        {
+            "variant_id": "5889847171",
+            "quantity": 10,
+            "cancelled_quantity": 0,
+            "returned_quantity": 0,
+            "returnable_quantity": 10
+        },
+        {
+            "variant_id": "5889995459",
+            "quantity": 10,
+            "cancelled_quantity": 0,
+            "returned_quantity": 0,
+            "returnable_quantity": 10
+        },
+        {
+            "variant_id": "5847961603",
+            "quantity": 10,
+            "cancelled_quantity": 0,
+            "returned_quantity": 0,
+            "returnable_quantity": 10
+        },
+        {
+            "variant_id": "5848390403",
+            "quantity": 10,
+            "cancelled_quantity": 0,
+            "returned_quantity": 0,
+            "returnable_quantity": 10
+        },
+        {
+            "variant_id": "5889544579",
+            "quantity": 10,
+            "cancelled_quantity": 0,
+            "returned_quantity": 0,
+            "returnable_quantity": 10
+        },
+        {
+            "variant_id": "5889728899",
+            "quantity": 10,
+            "cancelled_quantity": 0,
+            "returned_quantity": 0,
+            "returnable_quantity": 10
+        }
+    ]
+}
