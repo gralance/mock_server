@@ -3,8 +3,8 @@
             "variant_id": "5848011459",
             "quantity": 10,
             "cancelled_quantity": 0,
-            "returned_quantity": 1,
-            "returnable_quantity": 9
+            "returned_quantity": 0,
+            "returnable_quantity": 10
         },
         {
             "variant_id": "5848507971",
