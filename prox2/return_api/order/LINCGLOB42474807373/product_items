@@ -4,7 +4,7 @@
             "quantity": 10,
             "cancelled_quantity": 0,
             "returned_quantity": 0,
-            "returnable_quantity": 10
+            "returnable_quantity": 9
         },
         {
             "variant_id": "5848507971",
