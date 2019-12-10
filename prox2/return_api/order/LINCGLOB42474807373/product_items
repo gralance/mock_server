@@ -2,7 +2,7 @@
     "product_items": [{
             "variant_id": "5848011459",
             "quantity": 10,
-            "cancelled_quantity": 1,
+            "cancelled_quantity": 0,
             "returned_quantity": 1,
             "returnable_quantity": 9
         },
